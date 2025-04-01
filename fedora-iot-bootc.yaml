@@ -6,6 +6,6 @@ metadata:
   summary: Fedora IoT bootc image
 
 include:
-  - base-images/minimal-plus/manifest.yaml
-  - base-images/fedora-includes/generic.yaml
+  - base-images/tier-x/manifest.yaml
+  - base-images/tier-x/kernel.yaml
   - iot-packages.yaml
