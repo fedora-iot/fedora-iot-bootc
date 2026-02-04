@@ -56,7 +56,6 @@ packages:
   - setup
   - shadow-utils
   - slirp4netns
-  - ssh-key-dir
   - sssd-client
   - tmux
   - tpm2-pkcs11
