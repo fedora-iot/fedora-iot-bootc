@@ -3,3 +3,5 @@ repos:
   - fedora
   - fedora-updates
 include: fedora-iot-bootc.yaml
+packages:
+  - ssh-key-dir
