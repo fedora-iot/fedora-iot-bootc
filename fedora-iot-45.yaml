@@ -1,0 +1,4 @@
+releasever: 45
+repos:
+  - fedora-devel
+include: fedora-iot-bootc.yaml
