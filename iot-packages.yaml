@@ -31,7 +31,6 @@ packages:
   - greenboot
   - greenboot-default-health-checks
   - gzip
-  - ignition
   - ignition-edge
   - ima-evm-utils
   - iputils
