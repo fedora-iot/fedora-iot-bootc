@@ -57,6 +57,7 @@ packages:
   - shadow-utils
   - slirp4netns
   - sssd-client
+  - ssh-key-dir
   - tmux
   - tpm2-pkcs11
   - traceroute
